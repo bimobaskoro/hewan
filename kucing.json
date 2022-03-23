@@ -1,14 +1,14 @@
 [
-{
+  {
   "judul": "Bagaimana kuda melompat",
   "isi": "Caranya adalah lompat 1",
-},
-{
-  "judul": "Bagaimana kambing melompat",
-  "isi": "Caranya adalah lompat 2",
-},
-{
+  },
+  {
   "judul": "Bagaimana kecebong melompat",
+  "isi": "Caranya adalah lompat 2",
+  },
+  {
+  "judul": "Bagaimana kambing melompat",
   "isi": "Caranya adalah lompat 3",
-}
+  }
 ]
