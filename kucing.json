@@ -1,14 +1,18 @@
 [
   {
   "judul": "Bagaimana kuda melompat",
-  "isi": "Caranya adalah lompat 1"
+  "isi": "Caranya adalah lompat 1",
+   "url":"https://facebook.com"
   },
   {
   "judul": "Bagaimana kecebong melompat",
-  "isi": "Caranya adalah lompat 2"
+  "isi": "Caranya adalah lompat 2",
+     "url":"https://google.com"
   },
   {
   "judul": "Bagaimana kambing melompat",
-  "isi": "Caranya adalah lompat 3"
+  "isi": "Caranya adalah lompat 3",
+    "url":"https://twitter.com"
+    
   }
 ]
