@@ -2,17 +2,16 @@
   {
   "judul": "Bagaimana kuda melompat",
   "isi": "Caranya adalah lompat 1",
-   "url":"https://localhost:44344/id-ID/Content"
+   "slug": "kuda-lompat"
   },
   {
   "judul": "Bagaimana kecebong melompat",
   "isi": "Caranya adalah lompat 2",
-     "url":"https://google.com"
+     "slug": "kecebong-lompat"
   },
   {
   "judul": "Bagaimana kambing melompat",
   "isi": "Caranya adalah lompat 3",
-    "url":"https://twitter.com"
-    
+    "slug": "kambing-lompat"
   }
 ]
