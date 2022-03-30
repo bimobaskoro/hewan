@@ -1,19 +1,19 @@
 [ 
   {
-  "judul": "Bagaimana kuda melompat",
-  "isi": "Caranya adalah lompat 1",
+  "judul": "Lorem Ipsum",
+  "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "img":"https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80",
-   "slug": "kuda-lompat",
+   "slug": "lorem-ipsum",
     "pdf":"https://drive.google.com/file/d/1lEwW_tlGR6EVdbVs91L7HJSXPCoYYGrc/view?usp=sharing"
   },
   {
-  "judul": "Bagaimana kecebong melompat",
-  "isi": "Caranya adalah lompat 2",
-     "slug": "kecebong-lompat"
+  "judul": "Lorem Ipsum",
+  "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+     "slug": "lorem-ipsum"
   },
   {
-  "judul": "Bagaimana kambing melompat",
-  "isi": "Caranya adalah lompat 3",
-    "slug": "kambing-lompat"
+  "judul": "Lorem Ipsum",
+  "isi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "slug": "lorem-ipsum"
   }
 ]
