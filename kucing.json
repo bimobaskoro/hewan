@@ -1,7 +1,6 @@
 [
   {
     "fID" : "6315cb62-e80a-4ec2-b289-05453622907a",
-   "fSearch" : "Lorem Ipsum",
    "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
    "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
 "fActive" : ["Y","N"],
@@ -24,7 +23,6 @@
   },
   {
  "fID" : "a0563f4b-df74-497f-a6d0-2aa4fd89f9bd",
-   "fSearch" : "Lorem Ipsum",
    "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
    "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
 "fActive" : ["Y","N"],
@@ -47,7 +45,6 @@
   },
   {
     "fID" : "67bf1600-86c2-4c80-8df4-faf1801f2c61",
-   "fSearch" : "Lorem Ipsum",
    "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
    "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
 "fActive" : ["Y","N"],
