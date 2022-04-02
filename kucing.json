@@ -1,5 +1,6 @@
-[ 
-  { "fID" : "6315cb62-e80a-4ec2-b289-05453622907a",
+[
+  {
+    "fID" : "6315cb62-e80a-4ec2-b289-05453622907a",
    "fSearch" : "Lorem Ipsum",
    "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
    "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
@@ -20,15 +21,15 @@
              "field" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit. "
              },
 "fslug" : "lorem-ipsum"
-},
-  
-    { "fID" : "a0563f4b-df74-497f-a6d0-2aa4fd89f9bd",
-        "fSearch" : "Lorem Ipsum",
-     "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
-     "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
+  },
+  {
+ "fID" : "a0563f4b-df74-497f-a6d0-2aa4fd89f9bd",
+   "fSearch" : "Lorem Ipsum",
+   "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
+   "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
 "fActive" : ["Y","N"],
-"fCreatedBy ": "Deirdre	Gibson",
-"fCreatedDate" : "2022-04-02T16:41:50.032Z",
+"fCreatedBy ": "Deirde Gibson",
+"fCreatedDate" : "2022-04-01T16:41:50.032Z",
 "fLastModifiedBy" : "Amy Underwood",
 "fcontentID" : {
              "title" : "Lorem Ipsum ",
@@ -43,14 +44,15 @@
              "field" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit. "
              },
 "fslug" : "lorem-ipsum"
-},
-  { "fID" : "67bf1600-86c2-4c80-8df4-faf1801f2c61",
-      "fSearch" : "Lorem Ipsum",
-      "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
+  },
+  {
+    "fID" : "67bf1600-86c2-4c80-8df4-faf1801f2c61",
+   "fSearch" : "Lorem Ipsum",
+   "fImage" : "https://ilogo.co.id/wp-content/uploads/2021/07/dummy-image-square.jpg",
    "fPdf" : "https://spotgue.azurewebsites.net/assets/visitor/pdf/SGVisitorUserGuide.pdf",
 "fActive" : ["Y","N"],
 "fCreatedBy ": "Isaac Hunter",
-"fCreatedDate" : "2022-04-03T16:41:50.032Z",
+"fCreatedDate" : "2022-04-02T16:41:50.032Z",
 "fLastModifiedBy" : "Brian Baker",
 "fcontentID" : {
              "title" : "Lorem Ipsum ",
@@ -65,6 +67,5 @@
              "field" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit. "
              },
 "fslug" : "lorem-ipsum"
-}
-
+  }
 ]
