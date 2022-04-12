@@ -4,15 +4,15 @@
     "Value" : "24"
   },
   {
-    "key": "abcdefgh",
+    "Key": "abcdefgh",
     "Value" : "3"
   },
   {
-    "key": "hijkl",
+    "Key": "hijkl",
     "Value" : "2"
   },
   {
-    "key": "hijklmn",
+    "Key": "hijklmn",
     "Value" : "21"
   }
 ]
